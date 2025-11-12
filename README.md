@@ -1,6 +1,6 @@
 # Typesense RAG Pipeline Implementation
 
-<<<<<<< HEAD
+
 A comprehensive Retrieval-Augmented Generation (RAG) system using Typesense vector search, LangChain, and Google Generative AI for intelligent document search and question answering.
 
 ## 🚀 Project Overview
@@ -24,7 +24,6 @@ This project features a sophisticated multi-level Retrieval-Augmented Generation
 ## Project Description
 
 The project began with basic document retrieval and answer generation capabilities. It was then significantly advanced by incorporating critical features such as relevance filtering for more precise results, the inclusion of source metadata for traceability, and confidence scoring to indicate the reliability of answers. The ability to return the full context was also added, allowing for deeper analysis when required. The culmination of this development is a well-structured class that manages all these functionalities, demonstrating a smooth integration of Gemini 2.5 for efficient, context-aware AI responses with transparency and scalability.
->>>>>>> ae9dd06a9d99aa7941ee92a4ecdd57332ecbb98d
 
 - **Search and Index Documents**: Store documents in Typesense with vector embeddings
 - **Intelligent Retrieval**: Find relevant documents using semantic similarity search  
@@ -37,7 +36,6 @@ The project began with basic document retrieval and answer generation capabiliti
 
 Install the following Python packages:
 
-<<<<<<< HEAD
 =======
 1.  **Clone the repository:**
     ```bash
@@ -58,7 +56,6 @@ Install the following Python packages:
 ## Running the Example
 
 The `main.py` script currently contains a simple "Hello World" message:
->>>>>>> ae9dd06a9d99aa7941ee92a4ecdd57332ecbb98d
 ```bash
 pip install typesense
 pip install langchain langchain-community
@@ -312,3 +309,4 @@ jupyter notebook notebook/document.ipynb
 # or
 jupyter lab notebook/document.ipynb
 >>>>>>> ae9dd06a9d99aa7941ee92a4ecdd57332ecbb98d
+
