@@ -36,7 +36,10 @@ The project began with basic document retrieval and answer generation capabiliti
 
 Install the following Python packages:
 
-=======
+Python 3.x
+*   `pip` or `uv` (preferred for dependency management)
+
+
 1.  **Clone the repository:**
     ```bash
     git clone <your-repository-url>
@@ -90,7 +93,7 @@ Project/Yt_rag/
 Create a `.env` file in the project root:
 
 ```bash
-<<<<<<< HEAD
+
 # Google Generative AI API Key
 GOOGLE_GENERATIVE_AI_API_KEY=your_google_api_key_here
 
@@ -303,10 +306,9 @@ Feel free to extend this implementation with:
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
-=======
-jupyter notebook notebook/document.ipynb
+This project is open source and for Educational purpose only.
 # or
 jupyter lab notebook/document.ipynb
 >>>>>>> ae9dd06a9d99aa7941ee92a4ecdd57332ecbb98d
+
 
